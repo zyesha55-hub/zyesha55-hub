@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ayesha Afzaal 👋
 
-<!--
-**zyesha55-hub/zyesha55-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student at Punjab University, currently in my 3rd semester. I use this space to document my learning journey and share the projects I build along the way.
 
-Here are some ideas to get you started:
+### 💻 Technical Interests:
+- **Languages:** Focus on C++ (OOP) and Assembly.
+- **Concepts:** Data Structures & Algorithms.
+- **Exploring:** Web development and Unity game engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently:
+- Polishing my logic and problem-solving skills.
+- Organizing my university assignments and projects here.
+
+*Feel free to check out my repositories!*
